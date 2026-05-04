@@ -4,7 +4,7 @@
    Tanggal     : 22-April-2026 
    Lab         : D1 */
 
-abstract class Anabul {
+class Anabul {
     // atribut
     String nama;
 
